@@ -39,10 +39,10 @@ Check out my repositories to see some of the cool things I've been working on.
 ### ⛓️‍💥 Social :
 <div align="left">
   <a href="https://instagram.com/ganggaswaraa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo"  />
   </a>
    <a href="https://linkedin.com/in/gangga-swara" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"  height="30" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin"  alt="linkedin logo"  />
   </a>
 </div>
 
