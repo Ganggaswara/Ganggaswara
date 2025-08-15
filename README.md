@@ -25,7 +25,6 @@ Check out my repositories to see some of the cool things I've been working on.
 
 ganggaswara11@gmail.com
 
-Let’s build the future with code and machine learning! 🚀
 
 ### 🔱 Skills :
 
