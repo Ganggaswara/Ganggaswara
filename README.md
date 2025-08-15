@@ -36,7 +36,7 @@ Check out my repositories to see some of the cool things I've been working on.
 </div>
 
 
-### ⛓️‍💥 Social :
+### ⛓️‍💥 Connect :
 <div align="left">
   <a href="https://instagram.com/ganggaswaraa" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="instagram logo"  />
