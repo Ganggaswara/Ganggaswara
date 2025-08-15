@@ -23,7 +23,7 @@ Check out my repositories to see some of the cool things I've been working on.
 
 ### 📫 Reach me:
 
-## ganggaswara11@gmail.com
+##### ganggaswara11@gmail.com
 
 
 ### 🔱 Skills :
