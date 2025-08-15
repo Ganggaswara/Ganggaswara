@@ -28,7 +28,7 @@ Check out my repositories to see some of the cool things I've been working on.
 
 
 ### ⛓️‍💥 Social :
-![https://www.instagram.com/ganggaswaraa/](https://skillicons.dev/icons?i=instagram)
+![https://instagram.com/ganggaswaraa](https://skillicons.dev/icons?i=instagram)
 
 ---
 ![GitHub Contribution Grid Snake](github-contribution-grid-snake-dark.svg)
