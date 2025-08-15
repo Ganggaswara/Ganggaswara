@@ -41,10 +41,11 @@ Check out my repositories to see some of the cool things I've been working on.
   <a href="https://instagram.com/ganggaswaraa" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="instagram logo"  />
   </a>
-
+  
    <a href="https://linkedin.com/in/gangga-swara" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"  height="35" alt="linkedin logo"  />
   </a>
+
 </div>
 
 ---
