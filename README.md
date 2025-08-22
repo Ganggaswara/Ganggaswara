@@ -1,12 +1,9 @@
 # Hi there! I'm Gangga Swara 👋
 
-🔧 I'm currently working on developing machine learning models for computer vision and natural language processing  
+🔭 I'm currently working on developing machine learning models   
 🌱 I'm currently learning deep learning frameworks and advanced ML algorithms  
 🤝 I'm open to collaborating on ML research projects, data science initiatives, and AI applications  
-💡 I'm passionate about neural networks, data analysis, and building intelligent systems  
-💬 Ask me about machine learning algorithms, data preprocessing, or implementing ML solutions  
-📫 How to reach me: ganggaswara11@gmail.com  
-⚡ Fun fact: I often discover new insights while training and fine-tuning ML models  
+📫 You can reach me at ganggaswara11@gmail.com   
 
 ### 🔱 Skills :
 
@@ -21,7 +18,7 @@
   
 </div>
 
-### ⛓️‍💥 Connect :
+### ⛓️‍💥 Let's Connect! :
 
 <div align="left">
   <a href="https://instagram.com/ganggaswaraa" target="_blank">
@@ -31,6 +28,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin"  height="35" alt="linkedin logo"  />
   </a>
 </div>
+
 
 ![GitHub Contribution Grid Snake](github-contribution-grid-snake-dark.svg)
 
