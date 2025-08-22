@@ -1,9 +1,12 @@
 # Hi there! I'm Gangga👋
 
+![GitHub Contribution Grid Snake](github-contribution-grid-snake-dark.svg)
+
 🔭 I'm currently working on developing machine learning models   
 🌱 I'm currently learning deep learning frameworks and advanced ML algorithms  
 🤝 I'm open to collaborating on ML research projects, data science initiatives, and AI applications  
 📫 You can reach me at ganggaswara11@gmail.com   
+🚀 Let's build the future with code and machine learning! 
 
 ### 🔱 Skills :
 
@@ -28,18 +31,4 @@
     <img src="https://skillicons.dev/icons?i=linkedin"  height="35" alt="linkedin logo"  />
   </a>
 </div>
-<n></n>
 
----
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganggaswara/ganggaswara/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganggaswara/ganggaswara/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ganggaswara/ganggaswara/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-Let's build the future with code and machine learning! 🚀
