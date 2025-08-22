@@ -3,12 +3,19 @@
 I am a Computer Science student at Universitas Pendidikan Ganesha, currently diving deep into the fascinating world of Machine Learning 🤖.
 
 🔧 I'm currently working on developing machine learning models for computer vision and natural language processing
+
 🌱 I'm currently learning deep learning frameworks and advanced ML algorithms
+
 🤝 I'm open to collaborating on ML research projects, data science initiatives, and AI applications
+
 💡 I'm passionate about neural networks, data analysis, and building intelligent systems
+
 💬 Ask me about machine learning algorithms, data preprocessing, or implementing ML solutions
+
 📫 How to reach me: ganggaswara11@gmail.com
+
 ⚡ Fun fact: I often discover new insights while training and fine-tuning ML models
+
 
 ### 🔱 Skills :
 
