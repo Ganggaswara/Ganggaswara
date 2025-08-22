@@ -2,25 +2,13 @@
 
 I am a Computer Science student at Universitas Pendidikan Ganesha, currently diving deep into the fascinating world of Machine Learning 🤖.
 
-### 🔭 Current Focus :
-
-Mastering Machine Learning and AI to build smart, data-driven applications.
-
-### 💬 Ask me about :
-
-- Web Development
-- Python
-- Machine Learning
-- How to apply AI in various fields
-
-### 📂 Projects :
-
-Check out my repositories to see some of the cool things I've been working on.
-
-### 📫 Reach me :
-
-### ganggaswara11@gmail.com
-
+🔧 I'm currently working on developing machine learning models for computer vision and natural language processing
+🌱 I'm currently learning deep learning frameworks and advanced ML algorithms
+🤝 I'm open to collaborating on ML research projects, data science initiatives, and AI applications
+💡 I'm passionate about neural networks, data analysis, and building intelligent systems
+💬 Ask me about machine learning algorithms, data preprocessing, or implementing ML solutions
+📫 How to reach me: ganggaswara11@gmail.com
+⚡ Fun fact: I often discover new insights while training and fine-tuning ML models
 
 ### 🔱 Skills :
 
@@ -35,8 +23,8 @@ Check out my repositories to see some of the cool things I've been working on.
   
 </div>
 
-
 ### ⛓️‍💥 Connect :
+
 <div align="left">
   <a href="https://instagram.com/ganggaswaraa" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="instagram logo"  />
@@ -46,7 +34,6 @@ Check out my repositories to see some of the cool things I've been working on.
   </a>
 </div>
 
----
 ![GitHub Contribution Grid Snake](github-contribution-grid-snake-dark.svg)
 
 Let's build the future with code and machine learning! 🚀
