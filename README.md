@@ -27,7 +27,7 @@
   <a href="https://instagram.com/ganggaswaraa" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="instagram logo"  />
   </a>
-   <a href="https://linkedin.com/in/gangga-swara" target="_blank">
+   <a href="https://linkedin.com/in/ganggaswara11" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"  height="35" alt="linkedin logo"  />
   </a>
 </div>
